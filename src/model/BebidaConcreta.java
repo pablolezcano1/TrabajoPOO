@@ -8,6 +8,6 @@ public class BebidaConcreta extends Bebida {
 
     @Override
     public String descripcion() {
-        return "Descripción de la bebida concreta"; // Implementa la descripción de la bebida
+        return "Descripción de la bebida concreta";
     }
 }

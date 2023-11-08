@@ -8,6 +8,6 @@ public class TragoConcreto extends Trago {
 
     @Override
     public String descripcion() {
-        return "Descripción del trago concreto"; // Implementa la descripción del trago
+        return "Descripción del trago concreto";
     }
 }
